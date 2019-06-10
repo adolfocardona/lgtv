@@ -1,0 +1,28 @@
+{
+  "name": "tvlg",
+  "version": "1.0.0",
+  "description": "Control WiFi LG TV",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adolfocardona/lgtv.git"
+  },
+  "keywords": [
+    "lg",
+    "tv",
+    "wifi",
+    "controller"
+  ],
+  "author": "Adolfo Cardona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adolfocardona/lgtv/issues"
+  },
+  "homepage": "https://github.com/adolfocardona/lgtv#readme",
+  "dependencies": {
+    "lgtv": "^0.2.4"
+  }
+}
